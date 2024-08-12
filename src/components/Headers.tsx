@@ -1,6 +1,4 @@
-import React from "react";
-
-const Header = () => {
+const Headers = () => {
   return (
     <div>
       <header className='text-gray-600 body-font'>
@@ -44,4 +42,4 @@ const Header = () => {
   );
 };
 
-export default Header;
+export default Headers;
