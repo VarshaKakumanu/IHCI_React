@@ -16,8 +16,7 @@ const Contact = () => {
                   ADDRESS
                 </h2>
                 <p className='mt-1'>
-                  Photo booth tattooed prism, portland taiyaki hoodie neutra
-                  typewriter
+                UNIVERSITY OF TWENTE DRIENERLOLAAN 5 7522 NB ENSCHEDE
                 </p>
               </div>
               <div className='lg:w-1/2 px-6 mt-4 lg:mt-0'>
@@ -25,7 +24,7 @@ const Contact = () => {
                   EMAIL
                 </h2>
                 <a className='text-indigo-500 leading-relaxed'>
-                  example@email.com
+                ihcisociety@gmail.com
                 </a>
                 <h2 className='title-font font-semibold text-gray-900 tracking-widest text-xs mt-4'>
                   PHONE
@@ -39,7 +38,7 @@ const Contact = () => {
               Feedback
             </h2>
             <p className='leading-relaxed mb-5 text-gray-600'>
-              Post-ironic portland shabby chic echo park, banjo fashion axe
+              submit your paper 
             </p>
             <div className='relative mb-4'>
               <label className='leading-7 text-sm text-gray-600'>Name</label>
@@ -67,11 +66,11 @@ const Contact = () => {
                 className='w-full bg-white rounded border border-gray-300 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200 h-32 text-base outline-none text-gray-700 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out'></textarea>
             </div>
             <button className='text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg'>
-              Button
+              Submit
             </button>
             <p className='text-xs text-gray-500 mt-3'>
-              Chicharrones blog helvetica normcore iceland tousled brook viral
-              artisan.
+            Conference web link: International Conference on Intelligent Human Computer Interaction (ihciconf.org) 
+
             </p>
           </div>
         </div>

@@ -5,26 +5,25 @@ const Content = () => {
         <div className='container px-5 py-24 mx-auto'>
           <div className='flex flex-col text-center w-full mb-20'>
             <h2 className='text-xs text-indigo-500 tracking-widest font-medium title-font mb-1'>
-              ROOF PARTY POLAROID
+            Unveiling Our Story and Our Impact on the Field
             </h2>
             <h1 className='sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900'>
-              Master Cleanse Reliac Heirloom
+              About IHCI Society
             </h1>
             <p className='lg:w-2/3 mx-auto leading-relaxed text-base'>
-              Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
-              gentrify, subway tile poke farm-to-table. Franzen you probably
-              haven't heard of them man bun deep jianbing selfies heirloom prism
-              food truck ugh squid celiac humblebrag.
+            The IHCI Society, established in 2008, unites researchers, educators, 
+            and professionals in Intelligent Human-Computer Interaction and Cognitive Computing. It hosts annual
+             conferences and workshops, advancing human-centered technology and cognitive studies.
+             Members gain access to cutting-edge research and contribute to shaping the future of HCI.
             </p>
           </div>
           <div className='flex flex-wrap'>
             <div className='xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60'>
               <h2 className='text-lg sm:text-xl text-gray-900 font-medium title-font mb-2'>
-                Shooting Stars
+              Mission
               </h2>
               <p className='leading-relaxed text-base mb-4'>
-                Fingerstache flexitarian street art 8-bit waistcoat. Distillery
-                hexagon disrupt edison bulbche.
+              Advance Human-Computer Interaction through research, fostering global innovation and knowledge exchange.
               </p>
               <a className='text-indigo-500 inline-flex items-center'>
                 Learn More
@@ -42,11 +41,11 @@ const Content = () => {
             </div>
             <div className='xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60'>
               <h2 className='text-lg sm:text-xl text-gray-900 font-medium title-font mb-2'>
-                The Catalyzer
+                Vision
               </h2>
               <p className='leading-relaxed text-base mb-4'>
-                Fingerstache flexitarian street art 8-bit waistcoat. Distillery
-                hexagon disrupt edison bulbche.
+              To be a global leader, shaping HCI through cutting-edge
+               research and collaboration.
               </p>
               <a className='text-indigo-500 inline-flex items-center'>
                 Learn More
@@ -64,11 +63,11 @@ const Content = () => {
             </div>
             <div className='xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60'>
               <h2 className='text-lg sm:text-xl text-gray-900 font-medium title-font mb-2'>
-                Neptune
+                Values
               </h2>
               <p className='leading-relaxed text-base mb-4'>
-                Fingerstache flexitarian street art 8-bit waistcoat. Distillery
-                hexagon disrupt edison bulbche.
+              Innovation: Driving progress with new ideas and technologies.
+              Collaboration: Building partnerships to enhance research and development.
               </p>
               <a className='text-indigo-500 inline-flex items-center'>
                 Learn More
@@ -86,11 +85,11 @@ const Content = () => {
             </div>
             <div className='xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60'>
               <h2 className='text-lg sm:text-xl text-gray-900 font-medium title-font mb-2'>
-                Melanchole
+                Goals
               </h2>
               <p className='leading-relaxed text-base mb-4'>
-                Fingerstache flexitarian street art 8-bit waistcoat. Distillery
-                hexagon disrupt edison bulbche.
+              Advance Research: Facilitate groundbreaking research in HCI and cognitive technologies.
+              Promote Education: Provide resources to enhance field knowledge and skills.
               </p>
               <a className='text-indigo-500 inline-flex items-center'>
                 Learn More
@@ -107,9 +106,6 @@ const Content = () => {
               </a>
             </div>
           </div>
-          <button className='flex mx-auto mt-16 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg'>
-            Button
-          </button>
         </div>
       </section>
     </div>

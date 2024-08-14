@@ -1,3 +1,5 @@
+import member1 from '../assets/member3.png'
+import member2 from '../assets/member2.png'
 const Testmonial = () => {
   return (
     <div>
@@ -9,19 +11,16 @@ const Testmonial = () => {
                 CATEGORY
               </span>
               <h2 className='sm:text-3xl text-2xl title-font font-medium text-gray-900 mt-4 mb-4'>
-                Roof party normcore before they sold out, cornhole vape
+              Submit Your Research to IHCI-2024!
               </h2>
               <p className='leading-relaxed mb-8'>
-                Live-edge letterpress cliche, salvia fanny pack humblebrag
-                narwhal portland. VHS man braid palo santo hoodie brunch trust
-                fund. Bitters hashtag waistcoat fashion axe chia unicorn. Plaid
-                fixie chambray 90's, slow-carb etsy tumeric. Cray pug you
-                probably haven't heard of them hexagon kickstarter craft beer
-                pork chic.
+              The 16th International Conference on 
+              Intelligent Human-Computer Interaction invites original papers on AI-powered HCI.
+              Deadline for submissions: August 15, 2023. Accepted papers will be published in LNCS.
               </p>
               <div className='flex items-center flex-wrap pb-4 mb-4 border-b-2 border-gray-100 mt-auto w-full'>
                 <a className='text-indigo-500 inline-flex items-center'>
-                  Learn More
+                  More Details
                   <svg
                     className='w-4 h-4 ml-2'
                     viewBox='0 0 24 24'
@@ -65,15 +64,15 @@ const Testmonial = () => {
               <a className='inline-flex items-center'>
                 <img
                   alt='blog'
-                  src='https://dummyimage.com/104x104'
+                  src={member2}
                   className='w-12 h-12 rounded-full flex-shrink-0 object-cover object-center'
                 />
                 <span className='flex-grow flex flex-col pl-4'>
                   <span className='title-font font-medium text-gray-900'>
-                    Holden Caulfield
+                  Prof. Dhananjay Singh  
                   </span>
                   <span className='text-gray-400 text-xs tracking-widest mt-0.5'>
-                    UI DEVELOPER
+                    General Chair
                   </span>
                 </span>
               </a>
@@ -83,17 +82,15 @@ const Testmonial = () => {
                 CATEGORY
               </span>
               <h2 className='sm:text-3xl text-2xl title-font font-medium text-gray-900 mt-4 mb-4'>
-                Pinterest DIY dreamcatcher gentrify single-origin coffee
+              Call for Papers: IHCI-2024
               </h2>
               <p className='leading-relaxed mb-8'>
-                Live-edge letterpress cliche, salvia fanny pack humblebrag
-                narwhal portland. VHS man braid palo santo hoodie brunch trust
-                fund. Bitters hashtag waistcoat fashion axe chia unicorn. Plaid
-                fixie chambray 90's, slow-carb etsy tumeric.
+              Present your innovative research at IHCI-2024! We seek full and short papers on cutting-edge HCI topics. 
+              Papers will be published in LNCS. Submission deadline: August 15, 2023
               </p>
               <div className='flex items-center flex-wrap pb-4 mb-4 border-b-2 border-gray-100 mt-auto w-full'>
                 <a className='text-indigo-500 inline-flex items-center'>
-                  Learn More
+                  Submit Now
                   <svg
                     className='w-4 h-4 ml-2'
                     viewBox='0 0 24 24'
@@ -137,15 +134,15 @@ const Testmonial = () => {
               <a className='inline-flex items-center'>
                 <img
                   alt='blog'
-                  src='https://dummyimage.com/103x103'
+                  src={member1}
                   className='w-12 h-12 rounded-full flex-shrink-0 object-cover object-center'
                 />
                 <span className='flex-grow flex flex-col pl-4'>
                   <span className='title-font font-medium text-gray-900'>
-                    Alper Kamu
+                  Prof. Ajay Gupta
                   </span>
                   <span className='text-gray-400 text-xs tracking-widest mt-0.5'>
-                    DESIGNER
+                   Advisory Chair
                   </span>
                 </span>
               </a>

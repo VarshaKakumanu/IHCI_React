@@ -1,3 +1,7 @@
+import member1 from '../assets/member1.png';
+import member2 from '../assets/member2.png';
+import member3  from '../assets/member3.png';
+import member4 from '../assets/member4.png';
 const Team = () => {
   return (
     <div>
@@ -8,9 +12,7 @@ const Team = () => {
               OUR TEAM
             </h1>
             <p className='lg:w-2/3 mx-auto leading-relaxed text-base'>
-              Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
-              gentrify, subway tile poke farm-to-table. Franzen you probably
-              haven't heard of them.
+            Meet the Visionaries Driving Technological Innovation and Excellence.
             </p>
           </div>
           <div className='flex flex-wrap -m-4'>
@@ -19,16 +21,15 @@ const Team = () => {
                 <img
                   alt='team'
                   className='flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4'
-                  src='https://dummyimage.com/200x200'
+                  src={member1}
                 />
                 <div className='w-full'>
                   <h2 className='title-font font-medium text-lg text-gray-900'>
-                    Alper Kamu
+                  Dr. Jan-Willem van 't Klooster 
                   </h2>
-                  <h3 className='text-gray-500 mb-3'>UI Developer</h3>
+                  <h3 className='text-gray-500 mb-3'>General Chair</h3>
                   <p className='mb-4'>
-                    DIY tote bag drinking vinegar cronut adaptogen squid fanny
-                    pack vaporware.
+                  University of Twente, Netherlands
                   </p>
                   <span className='inline-flex'>
                     <a className='text-gray-500'>
@@ -76,16 +77,15 @@ const Team = () => {
                 <img
                   alt='team'
                   className='flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4'
-                  src='https://dummyimage.com/201x201'
+                  src={member2}
                 />
                 <div className='w-full'>
                   <h2 className='title-font font-medium text-lg text-gray-900'>
-                    Holden Caulfield
+                  Prof. Dhananjay Singh  
                   </h2>
-                  <h3 className='text-gray-500 mb-3'>UI Developer</h3>
+                  <h3 className='text-gray-500 mb-3'>General Chair</h3>
                   <p className='mb-4'>
-                    DIY tote bag drinking vinegar cronut adaptogen squid fanny
-                    pack vaporware.
+                  Penn State University, USA
                   </p>
                   <span className='inline-flex'>
                     <a className='text-gray-500'>
@@ -133,16 +133,15 @@ const Team = () => {
                 <img
                   alt='team'
                   className='flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4'
-                  src='https://dummyimage.com/202x202'
+                  src={member3}
                 />
                 <div className='w-full'>
                   <h2 className='title-font font-medium text-lg text-gray-900'>
-                    Atticus Finch
+                  Prof. Ajay Gupta
                   </h2>
-                  <h3 className='text-gray-500 mb-3'>UI Developer</h3>
+                  <h3 className='text-gray-500 mb-3'>Advisory Chair</h3>
                   <p className='mb-4'>
-                    DIY tote bag drinking vinegar cronut adaptogen squid fanny
-                    pack vaporware.
+Western Michigan University, Kalamazoo, USA
                   </p>
                   <span className='inline-flex'>
                     <a className='text-gray-500'>
@@ -190,16 +189,16 @@ const Team = () => {
                 <img
                   alt='team'
                   className='flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4'
-                  src='https://dummyimage.com/203x203'
+                  src={member4}
                 />
                 <div className='w-full'>
                   <h2 className='title-font font-medium text-lg text-gray-900'>
-                    Henry Letham
+                  Prof. Jan Treur
                   </h2>
-                  <h3 className='text-gray-500 mb-3'>UI Developer</h3>
+                  <h3 className='text-gray-500 mb-3'>Advisory Chair</h3>
                   <p className='mb-4'>
-                    DIY tote bag drinking vinegar cronut adaptogen squid fanny
-                    pack vaporware.
+                  Dept. of Artificial Intelligence, 
+Vrije Universiteit Amsterdam, NL
                   </p>
                   <span className='inline-flex'>
                     <a className='text-gray-500'>
