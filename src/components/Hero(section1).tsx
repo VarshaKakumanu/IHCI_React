@@ -16,9 +16,11 @@ const Hero = () => {
             <p className='mb-8 leading-relaxed'>
               <b>Welcome to IHCI 2024</b>
               | November 13th - 16th
-              <p>Hosted by the University of Twente and the BMS Lab
-
-                Embark on a transformative journey at IHCI 2024, where the brightest minds in research, education, and emerging technology converge. Join us for an exceptional four-day event dedicated to exploring and advancing the field of Human-Computer Interaction.
+              <p> 
+                Hosted by the University of Twente and the BMS Lab
+                Embark on a transformative journey at IHCI 2024, where the brightest minds in research, education,
+                and emerging technology converge. Join us for an exceptional four-day event dedicated to 
+                exploring and advancing the field of Human-Computer Interaction. 
               </p>
               <b>Conference Theme:</b>
               Meaningful Human-Computer Interaction
